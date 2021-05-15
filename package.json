@@ -1,0 +1,47 @@
+{
+    "name": "monokai-pro-new",
+    "displayName": "Monokai Pro New",
+    "description": "Monokai Pro New!",
+    "version": "1.0.0",
+    "publisher": "EmilijanMB",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "Monokai Pro",
+        "monokai pro",
+        "theme",
+        "dark theme",
+        "Monokai Pro New",
+        "monokai pro new",
+        "monokai pro",
+        "monokai",
+        "monokaipro",
+        "monokaipronew",
+        "monokai pro theme",
+        "monokai pro theme new",
+        "monokai theme",
+        "monokai theme new",
+        "monokaiprotheme",
+        "Monokai",
+        "Sublime Exact Theme",
+        "EmilijanMB"
+
+    ],
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Pro New",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Pro New-color-theme.json"
+            }
+        ]
+    }
+}
