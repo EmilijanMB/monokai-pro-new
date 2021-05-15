@@ -1,39 +1,39 @@
+### Monokai Pro New in Visual Studio Code! The complete Monokai experience!
+
 <p align="center"><img width="800px" src="https://i.ibb.co/XzFKN69/Monokai-Pro-New.png"></p>
 <p align="center">
 
-React
+## React
 
 <p align="center"><img width="800px" src="https://i.ibb.co/JQrx5ct/React.png"></p>
 <p align="center">
 
-Monokai Pro New in Visual Studio Code! The complete Monokai experience!
-
-Python:
+## Python
 
 <p align="center"><img width="800px" src="https://i.ibb.co/FXZTwfs/Python.png"></p>
 <p align="center">
 
-JavaScript:
+## JavaScript
 
 <p align="center"><img width="800px" src="https://i.ibb.co/nbwVMmq/Java-Script.png"></p>
 <p align="center">
 
-Java:
+## Java
 
 <p align="center"><img width="800px" src="https://i.ibb.co/qkCcZTG/Java.png"></p>
 <p align="center">
 
-HTML:
+## HTML
 
 <p align="center"><img width="800px" src="https://i.ibb.co/qdZ0Cn8/HTML.png"></p>
 <p align="center">
 
-Jupyter Notebooks:
+## Jupyter Notebooks
 
 <p align="center"><img width="800px" src="https://i.ibb.co/hDjV5GP/Jupyter-Notebooks.png"></p>
 <p align="center">
 
-Peacock:
+## Peacock
 
 <p align="center"><img width="800px" src="https://i.ibb.co/Jn7q7zy/Peacock.png"></p>
 <p align="center">
