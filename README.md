@@ -3,9 +3,7 @@
 <p align="center"><img width="800px" src="https://i.ibb.co/XzFKN69/Monokai-Pro-New.png"></p>
 <p align="center">
 
-## React
-
-### TypeScript
+## React TypeScript
 
 <p align="center"><img width="800px" src="https://i.ibb.co/JQrx5ct/React.png"></p>
 <p align="center">
