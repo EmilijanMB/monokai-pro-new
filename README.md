@@ -5,6 +5,8 @@
 
 ## React
 
+# TypeScript
+
 <p align="center"><img width="800px" src="https://i.ibb.co/JQrx5ct/React.png"></p>
 <p align="center">
 
